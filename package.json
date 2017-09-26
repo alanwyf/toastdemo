@@ -1,0 +1,19 @@
+{
+  "name": "toastdemo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanwyf/toastdemo.git"
+  },
+  "version": "0.1.0",
+  "description": "This is for toastdemo.",
+  "author": "Yuanfang Wang <19593300@qq.com>",
+  "nativePackage": true,
+  "license": "MIT",
+  "homepage": "https://github.com/alanwyf/toastdemo",
+  "keywords": [
+    "toastdemo",
+    "toastdemo"
+  ],
+  "dependencies": {
+  }
+}
